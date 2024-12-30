@@ -10,5 +10,5 @@ Arquivo que foi utilizado para ser criptogrado pelo códico malicioso no teste d
 # Decrypter:
 Arquivo com códico para descriptografar arquivos.
 
-# Arquivo descriptografado
+# Arquivo descriptografado:
 Arquivo que foi descriptografado.
